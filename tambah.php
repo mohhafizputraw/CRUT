@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Tambah Data Siswa</title>
+    <title>WINDAH BASUDARAs</title>
 </head>
 <body>
     <h2>Tambah Data Siswa</h2>
